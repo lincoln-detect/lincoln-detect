@@ -27,37 +27,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,solidity,bash&theme=dark" alt="Languages"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend"/>
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase,fastapi&theme=dark" alt="Backend"/>
-
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=gcp,vercel,docker,git,github,vscode&theme=dark" alt="Cloud & DevOps"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bazaza17/Bazaza17/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bazaza17/Bazaza17/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Bazaza17/Bazaza17/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</picture>
-</div>
----
-
-
 ## 🤝 Connect
 
 <div align="center">

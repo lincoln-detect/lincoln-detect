@@ -27,18 +27,6 @@
 
 ---
 
-## 🤝 Connect
-
-<div align="center">
-
-<a href="mailto:lbazail@lion.lmu.edu"><img src="https://img.shields.io/badge/Gmail-lbazail%40lion.lmu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/lincolnbazail"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/></a>
-<a href="https://github.com/lincolnbazail"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/></a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,20,24&height=120&section=footer" width="100%"/>

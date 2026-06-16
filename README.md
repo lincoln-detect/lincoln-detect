@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,20,24&height=200&section=header&text=Lincoln%20Bazail&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/lincolnbazail">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=GenAI+Engineering+Intern+%40+Detect;G;Full+Stack+%E2%80%A2+Next.js+%E2%80%A2+Supabase;"Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=GenAI+Engineering+Intern+%40+Detect;"Typing SVG" />
 </a>
 
 <br/>

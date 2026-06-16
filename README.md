@@ -85,7 +85,6 @@
 <a href="mailto:lbazail@lion.lmu.edu"><img src="https://img.shields.io/badge/Gmail-lbazail%40lion.lmu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/lincolnbazail"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/></a>
 <a href="https://github.com/lincolnbazail"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/></a>
-<a href="https://lincolnbazail.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" alt="Portfolio"/></a>
 
 </div>
 

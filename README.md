@@ -47,26 +47,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bazaza17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bazaza17&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" height="180" alt="Streak Stats"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazaza17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" height="160" alt="Top Languages"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bazaza17&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=8B5CF6&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 <div align="center">
 <picture>
@@ -91,8 +71,6 @@
 ---
 
 <div align="center">
-
-### *:)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,19,20,24&height=120&section=footer" width="100%"/>
 
